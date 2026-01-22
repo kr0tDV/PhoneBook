@@ -1,0 +1,10 @@
+﻿  main.cpp
+  phonebook.cpp
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(124,31): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(124,31): warning C4267:         with
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(124,31): warning C4267:         [
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(124,31): warning C4267:             _Ty=int
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(124,31): warning C4267:         ]
+C:\Users\tekil\source\repos\PhoneBook2.0\phonebook.cpp(222,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  PhoneBook2.0.vcxproj -> C:\Users\tekil\source\repos\PhoneBook2.0\x64\Debug\PhoneBook2.0.exe
